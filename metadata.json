@@ -1,0 +1,5 @@
+{
+  "name": "DocuGen AI",
+  "description": "An AI-powered application to generate comprehensive project documentation and code prompts from a simple idea. Users can select which sections they need, from project overviews to marketing kits, and receive tailored, high-quality output.",
+  "requestFramePermissions": []
+}
